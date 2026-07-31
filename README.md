@@ -1,16 +1,48 @@
-## Hi there 👋
+# Hi, I'm Kensuke Tsukamoto 👋
 
-<!--
-**omu-39/omu-39** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me 👦
 
-Here are some ideas to get you started:
+COACHTECH でフルスタックWeb開発が出来る事を目標に学習しています！
+前職ではCADのPSWシステムを用いた図面制作に携わっていました。
+趣味はゲームです！友達とワイワイできるゲームが好きです！
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills 🔨
+
+### Backend
+- PHP
+- Laravel
+- MySQL
+
+### Frontend
+- HTML
+- CSS
+- Tailwind CSS
+
+### Tools
+- Docker
+- Git / GitHub
+- VS Code
+
+## 学習成果物 ✨
+
+### BookShelf 📚
+
+COACHTECH の模擬案件で作成した書籍管理アプリです。
+
+Repository:
+https://github.com/omu-39/bookshelf-app
+
+### Frea Market App 👟
+
+COACHTECH の模擬案件で作成したフリーマーケットアプリです。
+
+Repository:
+https://github.com/omu-39/coachtech-freemarket
+
+## Currently Learning 🖊
+- JavaScript
+- TypeScript
+- React
+
+## Contact 📞
+- email: tsukamoto6574@gmail.com
