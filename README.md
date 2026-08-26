@@ -3,8 +3,8 @@
 ## About Me 👦
 
 COACHTECH でフルスタックWeb開発が出来る事を目標に学習しています！
-前職ではCADのPSWシステムを用いた図面制作に携わっていました。
-趣味はゲームです！友達とワイワイできるゲームが好きです！
+前職では配管の製図業務に携わっていました。
+趣味はゲームと料理です！得意料理は唐揚げです！
 
 ## Skills 🔨
 
@@ -43,6 +43,8 @@ https://github.com/omu-39/coachtech-freemarket
 - JavaScript
 - TypeScript
 - React
+- Next.js
+- PostgreSQL
 
 ## Contact 📞
 - email: tsukamoto6574@gmail.com
